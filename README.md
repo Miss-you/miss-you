@@ -1,39 +1,8 @@
-![banner](https://res.cloudinary.com/jimmysong/image/upload/v1603294035/images/github-banner.jpg)
+### 🚀 Vibe Coding Projects
 
-👉 [https://cloudnative.to](https://cloudnative.to)
+**[codetok](https://github.com/Miss-you/codetok)** — 追踪 AI 编程 CLI 工具的 token 消耗量
 
-### Hi there 👋
-
-<!--
-**Miss-you/miss-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🌈 I’m currently working at Tencent. 😎
-- 🐳 I’m currently learning Golang\K8S\OpenResty\APISIX\Istio\Envoy. 😎
-- 🤔 I'm thinking changing the world more or less. 😎
-- 💬 Welcomed to ask me about `API gateway or Cloud Native`. 😎
-- 📫 How to reach me: [email:yousa@apache.org](yousa@apache.org)
-
--->
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Miss-you&show_icons=true&theme=vue" alt="yousa's github stats" />
-
-- 🌈 I’m currently working at Tencent. 😎
-- 🐳 I’m currently learning Golang\K8S\OpenResty\APISIX\Istio\Envoy. 😎
-- 🤔 I'm thinking changing the world more or less. 😎
-- 💬 Welcomed to ask me about `API gateway or Cloud Native`. 😎
-- 📫 How to reach me: [email:yousa@apache.org](yousa@apache.org)
-
-### 🚀 Projects
-
-<a href="https://github.com/Miss-you/codetok">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Miss-you&repo=codetok&theme=vue" />
-</a>
-
-**[codetok](https://github.com/Miss-you/codetok)** — A CLI tool for tracking and aggregating token usage across AI coding CLI tools (Kimi CLI, Claude Code, Codex CLI).
+支持 Kimi CLI、Claude Code、Codex CLI 的会话数据统计
 
 ```bash
 npm install -g @yousali/codetok
@@ -41,7 +10,16 @@ npm install -g @yousali/codetok
 go install github.com/miss-you/codetok@latest
 ```
 
-<br/>
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=miss-you&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+### 📝 Recent Posts
 
+| 文章 | 日期 | 主题 |
+|------|------|------|
+| [省10秒，赔一个早上](https://yousali.com/posts/20260221-save-10-seconds/) | 2026-02-21 | 认知盲区与习惯 |
+| [不要让 AI 批改自己的试卷 —— 一次 16 处遗漏的协作复盘](https://yousali.com/posts/20260218-ai-collaboration-acceptance-blindspots/) | 2026-02-18 | AI 协作、验收漏斗 |
+| [从一个 WebSocket 到四个组件：多端操控 AI Coding CLI 的架构演化](https://yousali.com/posts/20260217-websocket-to-four-components/) | 2026-02-17 | 架构设计、WebSocket |
+
+---
+
+📫 yousa@apache.org
